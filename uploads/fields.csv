@@ -1,0 +1,48 @@
+PersonIdentifier,Identifier,0
+PersonFullName,Full Name,0
+PersonGivenName,Given Name,0
+PersonFamilyName,Family Name,0
+PersonPatronymicName,Patronymic Name,0
+PersonAlternativeName,Alternative Name,0
+PersonGender,Gender,0,
+PersonBirthName,Birth Name,0
+PersonDateOfBirth,Date Of Birth,0
+PersonDateOfDeath,Date Of Death,0
+PersonCountryOfBirth,Country Of Birth,1
+PersonCountryOfBirthLocationGeographicName,Geographic Name,0
+PersonCountryOfBirthLocationGeographicIdentifier,Geographic Identifier,0
+PersonCountryOfBirthLocationAddress,Address,0
+PersonCountryOfBirthLocationGeometry,Geometry,0
+PersonCountryOfDeath,Country Of Death,1
+PersonCountryOfDeathLocationGeographicName,Geographic Name,0
+PersonCountryOfDeathLocationGeographicIdentifier,Geographic Identifier,0
+PersonCountryOfDeathLocationAddress,Address,0
+PersonCountryOfDeathLocationGeometry,Geometry,0
+PersonPlaceOfBirth,Place Of Birth,1
+PersonPlaceOfBirthLocationGeographicName,Geographic Name,0
+PersonPlaceOfBirthLocationGeographicIdentifier,Geographic Identifier,0
+PersonPlaceOfBirthLocationAddress,Address,0
+PersonPlaceOfBirthLocationGeometry,Geometry,0
+PersonPlaceOfDeath,Place Of Death,1
+PersonPlaceOfDeathLocationGeographicName,Geographic Name,0
+PersonPlaceOfDeathLocationGeographicIdentifier,Geographic Identifier,0
+PersonPlaceOfDeathLocationAddress,Address,0
+PersonPlaceOfDeathLocationGeometry,Geometry,0
+PersonCitizenship,Citizenship,1
+PersonCitizenshipJurisdictionName,Name,0
+PersonCitizenshipJurisdictionIdentifier,Identifier,0
+PersonResidency,Residency,1
+PersonResidencyJurisdictionName,Name,0
+PersonResidencyJurisdictionIdentifier,Identifier,0
+PersonAddress,Address,1
+PersonAddressAddressFullAddress,Full Address,0
+PersonAddressAddressPOBox,PO Box,0
+PersonAddressAddressThoroughfare,Thoroughfare,0
+PersonAddressAddressLocatorDesignator,Locator Designator,0
+PersonAddressAddressLocatorName,Locator Name,0
+PersonAddressAddressAddressArea,Address Area,0
+PersonAddressAddressPostName,Post Name,0
+PersonAddressAddressAdminUnitL2,Admin Unit L2,0
+PersonAddressAddressAdminUnitL1,Admin Unit L1,0
+PersonAddressAddressPostCode,Post Code,0
+PersonAddressAddressAddressID,Address ID,0
